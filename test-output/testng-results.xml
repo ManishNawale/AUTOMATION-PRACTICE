@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-10-22T05:33:14 IST" name="Default suite" finished-at="2023-10-22T05:33:14 IST" duration-ms="135">
+    <groups>
+    </groups>
+    <test started-at="2023-10-22T05:33:14 IST" name="Default test" finished-at="2023-10-22T05:33:14 IST" duration-ms="135">
+      <class name="TestNgPrograms.M">
+        <test-method is-config="true" signature="BC()[pri:0, instance:TestNgPrograms.M@333291e3]" started-at="2023-10-22T05:33:14 IST" name="BC" finished-at="2023-10-22T05:33:14 IST" duration-ms="19" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BC -->
+        <test-method signature="name()[pri:0, instance:TestNgPrograms.M@333291e3]" started-at="2023-10-22T05:33:14 IST" name="name" finished-at="2023-10-22T05:33:14 IST" duration-ms="18" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- name -->
+        <test-method is-config="true" signature="AC()[pri:0, instance:TestNgPrograms.M@333291e3]" started-at="2023-10-22T05:33:14 IST" name="AC" finished-at="2023-10-22T05:33:14 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AC -->
+      </class> <!-- TestNgPrograms.M -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
