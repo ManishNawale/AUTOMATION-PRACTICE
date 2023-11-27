@@ -2,5 +2,17 @@
 <!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
 <suite name="Suite">
   <test thread-count="5" name="Test">
+    <classes>
+      <class name="TestNgPrograms.DropDown"/>
+      <class name="TestNgPrograms.Enable"/>
+      <class name="TestNgPrograms.Priority"/>
+      <class name="TestNgPrograms.AfterBeforeLoad"/>
+      <class name="TestNgPrograms.TP_ByNumber"/>
+      <class name="TestNgPrograms.BeforeAfter"/>
+      <class name="TestNgPrograms.HandlingWindow"/>
+      <class name="TestNgPrograms.TestPriority"/>
+      <class name="TestNgPrograms.TP_Byletter"/>
+      <class name="TestNgPrograms.M"/>
+    </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
